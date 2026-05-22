@@ -109,6 +109,28 @@ button{
 /*Third section*/
 .third-section {
     background-color: #E5E7EB;
+    padding: 150px 250px 100px 250px;
+    display:flex;
+    justify-content:center;
+}
+
+.quote-container {
+    display: flex;
+    flex-direction: column;
+    max-width: 830px;
+    min-width: 500px;
+}
+
+.quote-text {
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: 300;
+}
+
+.quote-reference {
+    align-self:end;
+    font-size: 24px;
+    padding:0px 40px;
 }
 
 /*Fourth section*/
