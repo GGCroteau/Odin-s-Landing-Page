@@ -117,5 +117,8 @@ button{
 }
 /*footer*/
 .footer {
+    display:flex;
     background-color: #1F2937;
+    padding:50px 0px;
+    justify-content:center;
 }
